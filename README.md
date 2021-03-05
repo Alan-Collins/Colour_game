@@ -9,5 +9,7 @@ If you want to start again press the R key to reset.
 
 Difficulty and grid size are hard-coded in the game parameters section. Lower difficulty is harder.
 
+## Requirements
+
 Requires pygame, colormath
 Tested with pygame-2.0.1, and colormath-3.0.0
