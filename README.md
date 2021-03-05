@@ -1,7 +1,7 @@
 # Colour_game
 Simple python game where you organize coloured squares along gradients in a grid.
 
-Controls:
+## Controls:
 Click to start.
 Click a square to select it (indicated by highlight). Click again to swap it with another square.
 If you need a hint press the S key to show the solution.
